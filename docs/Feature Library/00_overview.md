@@ -1,0 +1,47 @@
+---
+sidebar_label: Overview
+sidebar_position: 1
+title: Feature Overview
+---
+
+The **Flex Project Template** comes with a set of features enabled by default within the Flex configuration, along with additional features that can be enabled.
+
+## Enabled by Default Features
+
+| Feature                         | Description                                                                 | Flex V1 Plugin                                             | Flex V2 Plugin                                                      | Enabled By Default |
+| ------------------------------- | --------------------------------------------------------------------------- | ---------------------------------------------------------- | ------------------------------------------------------------------- | ------------------ |
+| Agent Automation                | _adds auto accept and auto wrapup behaviors to agent desktop_               | No                                                         | [Yes](/Feature%20Library/Flex%20V2/agent-automation)                | ✅                 |
+| Callbacks and Voicemail         | _introduce support for callback and voicemail tasks_                        | [Yes](/Feature%20Library/Flex%20V1/callback-and-voicemail) | [Yes](/Feature%20Library/Flex%20V2/callback-and-voicemail)          | ✅                 |
+| Caller ID                       | _provide agents with means to select their caller id when dialing out_      | [Yes](/Feature%20Library/Flex%20V1/caller-id)              | [Yes](/Feature%20Library/Flex%20V2/caller-id)                       | ✅                 |
+| Conference (external)           | _provide agents the ability to conference in external numbers_              | No                                                         | [Yes](/Feature%20Library/Flex%20V2/conference)                      | ✅                 |
+| Custom Transfer Directory       | _customize the agent and queue transfer directories_                        | No                                                         | [Yes](/Feature%20Library/Flex%20V2/custom-transfer-directory)       | ✅                 |
+| Device Manager                  | _provide agents the ability to select the audio output device_              | No                                                         | [Yes](/Feature%20Library/Flex%20V2/device-manager)                  | ✅                 |
+| Pause Recording                 | _provide agents the ability to temporarily pause and resume call recording_ | No                                                         | [Yes](/Feature%20Library/Flex%20V2/pause-recording)                 | ✅                 |
+| Scrollable Activities           | _allow the scrolling of the activities list_                                | [Yes](/Feature%20Library/Flex%20V1/scrollable-activities)  | [Yes](/Feature%20Library/Flex%20V2/scrollable-activities)           | ✅                 |
+| Supervisor Barge Coach          | _introduce advanced supervisor barge and coach features_                    | [Yes](/Feature%20Library/Flex%20V1/supervisor-barge-coach) | [Yes](/Feature%20Library/Flex%20V2/supervisor-barge-coach)          | ✅                 |
+| Supervisor Capacity             | _allow supervisors to update worker capacity configuration within Flex_     | No                                                         | [Yes](/Feature%20Library/Flex%20V2/supervisor-capacity)             | ✅                 |
+| Supervisor Complete Reservation | _allows supervisor to remotely complete agent tasks_                        | No                                                         | [Yes](/Feature%20Library/Flex%20V2/supervisor-complete-reservation) | ✅                 |
+| Teams View Filters              | _adds additional filtering options to the supervisor teams view_            | No                                                         | [Yes](/Feature%20Library/Flex%20V2/teams-view-filters)              | ✅                 |
+
+---
+
+## Additional Features Available
+
+| Feature                           | Description                                                                                         | Flex V1 Plugin                                                        | Flex V2 Plugin                                                       | Enabled By Default |
+| --------------------------------- | --------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------- | -------------------------------------------------------------------- | ------------------ |
+| Activity Reservation Handler      | _synchronize agent activities to reservation states_                                                | [Yes](/Feature%20Library/Flex%20V1/activity-reservation-filter)       | [Yes](/Feature%20Library/Flex%20V2/activity-reservation-handler)     |                    |
+| Activity Skill Filter             | _manage visibility for activities based on agent skills_                                            | [Yes](/Feature%20Library/Flex%20V1/activity-skill-filter)             | [Yes](/Feature%20Library/Flex%20V2/activity-skill-filter)            |                    |
+| Canned Responses                  | _provide agents with pre-canned chat responses_                                                     | No                                                                    | [Yes](/Feature%20Library/Flex%20V2/canned-responses)                 |                    |
+| Chat to Video Escalation          | _provide agents ability to elevate a chat conversation to a video conversation with screen sharing_ | No                                                                    | [Yes](/Feature%20Library/Flex%20V2/chat-to-video-escalation)         |                    |
+| Chat Transfer                     | _introduce programmable chat transfer functionality for agents_                                     | [Yes](/Feature%20Library/Flex%20V1/chat-transfer)                     | [Yes](/Feature%20Library/Flex%20V2/chat-transfer)                    |                    |
+| Conversation Transfer             | _introduce conversation-based messaging transfer functionality for agents_                          | No                                                                    | [Yes](/Feature%20Library/Flex%20V2/conversation-transfer)            |                    |
+| Custom Hold Music                 | _customize the experience when an agent places a call on hold_                                      | No                                                                    | [Yes](/Feature%20Library/Flex%20V2/custom-hold-music)                |                    |
+| Dispositions                      | _provide agents the ability to select a disposition/wrap-up code and enter notes_                   | No                                                                    | [Yes](/Feature%20Library/Flex%20V2/dispositions)                     |                    |
+| Dual Channel Recording            | _automatically record both inbound and outbound calls in dual channel_                              | No                                                                    | [Yes](/Feature%20Library/Flex%20V2/dual-channel-recording)           |                    |
+| Enhanced CRM Container            | _optimize the CRM container experience_                                                             | [Yes](/Feature%20Library/Flex%20V1/enhanced-crm-container)            | [Yes](/Feature%20Library/Flex%20V2/enhanced-crm-container)           |                    |
+| Hang Up By Reporting              | _populates the Hang Up By and Destination attributes in Flex Insights_                              | No                                                                    | [Yes](/Feature%20Library/Flex%20V2/hang-up-by)                       |                    |
+| Internal Call (Agent to Agent)    | _provide agents the ability to dial each other_                                                     | No                                                                    | [Yes](/Feature%20Library/Flex%20V2/internal-call)                    |                    |
+| Multi-call                        | _allow agents to receive a transferred call while already on a call_                                | No                                                                    | [Yes](/Feature%20Library/Flex%20V2/multi-call)                       |                    |
+| Override Queue Transfer Directory | _a template for modifying the transfer directories_                                                 | [Yes](/Feature%20Library/Flex%20V1/override-queue-transfer-directory) | No                                                                   |                    |
+| Omni Channel Management           | _method for mixing chat and voice channels_                                                         | [Yes](/Feature%20Library/Flex%20V1/omni-channel-capacity-management)  | [Yes](/Feature%20Library/Flex%20V2/omni-channel-capacity-management) |                    |
+| Schedule Manager                  | _a flexible, robust, and scalable way to manage open and closed hours for Twilio Flex applications_ | No                                                                    | [Yes](/Feature%20Library/Flex%20V2/schedule-manager)                 |                    |
