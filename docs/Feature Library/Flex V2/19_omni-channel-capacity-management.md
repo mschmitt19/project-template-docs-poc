@@ -18,7 +18,7 @@ To address this, this feature toggles agents between the configured chat capacit
 
 Example delivery of callbacks (on voice channel of capacity 1) and chat tasks (max capacity 2) where the task backlog is ordered callback, chat, callback, chat, callback, chat, callback, chat, callback
 
-![alt text]
+![alt text](/img/f2/omni-channel-capacity-management/flex-user-experience-omni-channel-capacity-management.gif)
 
 # setup and dependencies
 

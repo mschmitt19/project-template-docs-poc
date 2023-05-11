@@ -10,7 +10,7 @@ The short coming with the OOTB container is that it re-renders as you toggle bet
 
 # flex-user-experience
 
-![alt text]
+![alt text](/img/f2/enhanced-crm-container/flex-user-experience-enhanced-crm-container.gif)
 
 # setup and dependencies
 

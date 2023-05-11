@@ -75,16 +75,16 @@ This section provides visual examples of what to expect for each feature above.
 
 ### "On a Task" and "Wrap Up" Activity Change (Inbound Queue Call)
 
-!["On a Task" and "Wrap Up" Activity Change, Inbound Queue Call]
+!["On a Task" and "Wrap Up" Activity Change, Inbound Queue Call](/img/f1/activity-reservation-filter/plugin-activity-handler-inbound-acd.gif)
 
 ### "On a Task, No ACD" and "Wrap Up, No ACD" Activity Change (Outbound Call from non-Available Activity)
 
-!["On a Task, No ACD" and "Wrap Up, No ACD" Activity Change, Outbound Call from non-Available Activity]
+!["On a Task, No ACD" and "Wrap Up, No ACD" Activity Change, Outbound Call from non-Available Activity](/img/f1/activity-reservation-filter/plugin-activity-handler-outbound-no-acd.gif)
 
 ### Preventing Selection of Restricted Activities
 
-![Preventing Selection of Restricted Activities]
+![Preventing Selection of Restricted Activities](/img/f1/activity-reservation-filter/plugin-activity-handler-restricted-activities.gif)
 
 ### Delaying Activity Change Until Tasks Are Completed
 
-![Delaying Activity Change Until Tasks Are Completed]
+![Delaying Activity Change Until Tasks Are Completed](/img/f1/activity-reservation-filter/plugin-activity-handler-delayed-activity-change.gif)

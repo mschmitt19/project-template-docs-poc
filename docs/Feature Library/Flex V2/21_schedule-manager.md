@@ -6,7 +6,7 @@ title: Twilio Flex Schedule Manager
 
 This solution provides a flexible, robust, and scalable way to manage open and closed hours for Twilio Flex applications.
 
-![Schedule manager]
+![Schedule manager](/img/f2/schedule-manager/schedules.png)
 
 ## Disclaimer
 
@@ -18,7 +18,7 @@ The schedule manager uses two main concepts: rules and schedules. Rules define a
 
 To manage rules and schedules, a Flex plugin is provided which adds a Schedule Manager item to the side navigation for workers with the `admin` role. This allows viewing the current configuration, the status of each schedule, and publishing updates to the configuration.
 
-![Rules view]
+![Rules view](/img/f2/schedule-manager/rules.png)
 
 To allow for greater scalability than provided by Twilio Sync and some other solutions, configuration is stored within a Twilio Asset behind a Twilio Function. When updates to the configuration are being saved, a new asset version is generated and included in a new build, which is deployed when completed. This means that publishing schedules may take a few moments.
 
@@ -147,7 +147,7 @@ This calls the `admin/list` function, which requires the Flex user token. `sched
 
 ## Using within Studio
 
-![Studio example]
+![Studio example](/img/f2/schedule-manager/studio.png)
 
 1. Bring a Run Function widget into your flow, named `check_schedule`, configured to the `schedule-manager` service, and `/check-schedule` function.
 2. Add to the function parameters: key: `name`, value: `Name of schedule to check` and save.

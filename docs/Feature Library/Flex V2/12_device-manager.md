@@ -12,7 +12,7 @@ This feature is intended to demonstrate how to use web APIs to select audio devi
 
 The Device Manager currently provides options related to audio device selection. Utilizing Twilio Paste components, a list of audio device options is presented to the agent upon clicking the `Icon Button` in the `Main Header` of Flex.
 
-[img src="https://hosted-assets-2838-dev.twil.io/DeviceManagerMenu.gif" alt="gif" width="100%" ]
+![alt text](/img/f2/device-manager/DeviceManagerMenu.gif)
 
 After selecting an audio device, a `Toast notification` is shown to indicate the audio device has been set successfully.
 

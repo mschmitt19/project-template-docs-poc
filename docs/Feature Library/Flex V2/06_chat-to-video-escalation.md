@@ -47,31 +47,31 @@ This feature is broken down into three main sections:
 
 1. The video session can only be initiated by the Agent within Flex. Once determined a video session would be appropriate to resolve the customer's use case, the Agent clicks the `Video Icon` button in the `Task Canvas Header`:
 
-[img src="./screenshots/video-button.png" alt="Twilio" width="50%"]
+   ![alt text](/img/f2/chat-to-video/video-button.png)
 
 2. After clicking the button, a request is sent to the Twilio function to generate a unique code, which serves as the video room name. Upon success, the unique code and full url to join the video session are returned to the Flex UI, which then auto-sends a message to the conversation with the customer:
 
-   [img src="./screenshots/join-video-message.png" alt="Twilio" width="20%" /]
+   ![alt text](/img/f2/chat-to-video/join-video-message.png)
 
 3. Within the Flex UI, a new tab is visible to the Agent within the `Task Canvas Tabs`, labeled `Video Room`:
 
-   [img src="./screenshots/join-room-button.png" alt="Twilio" width="50%" /]
+   ![alt text](/img/f2/chat-to-video/join-room-button.png)
 
 4. After clicking `Join Video Room`, the agent is connected to the video room and can interact with the customer:
 
-   [img src="./screenshots/agent-video-room.png" alt="Twilio" width="50%" /]
+   ![alt text](/img/f2/chat-to-video/agent-video-room.png)
 
 5. On the customer's end, they would click the link included in the message, which would open a new browser tab to join the video room:
 
-   [img src="./screenshots/customer-video-join.png" alt="Twilio" width="50%" /]
+   ![alt text](/img/f2/chat-to-video/customer-video-join.png)
 
 6. After clicking `Join Video Room`, the customer will connect to the room and interact with the Agent. The buttons below the video allow the customer to toggle their microphone and camera to on/off, share their screen, and disconnect from the video session:
 
-   [img src="./screenshots/customer-video-room.png" alt="Twilio" width="50%" /]
+   ![alt text](/img/f2/chat-to-video/customer-video-room.png)
 
 7. Once the video session is complete and the customer disconnects from the room, there is a _Post Video UI_ where you could collect a CSAT or feedback:
 
-   [img src="./screenshots/post-video-room.png" alt="Twilio" width="50%" /]
+   ![alt text](/img/f2/chat-to-video/post-video-room.png)
 
 **Note:** An agent will only be able to participate in one video session at a time. Additionally, an Agent must disconnect from the video session before being allowed to complete or wrap-up a task.
 
@@ -79,7 +79,7 @@ This feature is broken down into three main sections:
 
 The following diagram demonstrates how a chat session can be escalated to video. More specifically, this flow outlines the technical details from agent initiation to connecting to the video room.
 
-[img src="./screenshots/Chat-to-Video-Diagram.png" alt="Twilio" width="100%" /]
+![alt text](/img/f2/chat-to-video/Chat-to-Video-Diagram.png)
 
 ---
 

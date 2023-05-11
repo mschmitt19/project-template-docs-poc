@@ -10,7 +10,7 @@ This feature provides the supervisor the ability to remotely complete an agents 
 
 a supervisor remotely completing a task that has been sitting in a wrap up state for too long
 
-![alt text]
+![alt text](/img/f2/supervisor-complete-reservation/complete-reservation.gif)
 
 # setup and dependencies
 

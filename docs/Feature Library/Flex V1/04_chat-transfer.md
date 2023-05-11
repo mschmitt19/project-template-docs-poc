@@ -12,7 +12,7 @@ If using the notification feature it is advised that you copy the custom compone
 
 An example using warm transfer
 
-![alt text]
+![alt text](/img/f1/chat-transfer/flex-user-experience-warm-transfer-full.gif)
 
 # setup and dependencies
 

@@ -8,7 +8,7 @@ This feature implements a _Channel Capacity_ panel in the [Twilio Flex](https://
 
 # flex-user-experience
 
-![Supervisor capacity demo]
+![Supervisor capacity demo](/img/f2/supervisor-capacity/supervisor-capacity.gif)
 
 # setup and dependencies
 

@@ -12,7 +12,7 @@ This feature is based on [the dialpad addon plugin](https://github.com/twilio-pr
 
 # flex-user-experience
 
-![Conference demo]
+![Conference demo](/img/f2/conference/conference.gif)
 
 # setup and dependencies
 

@@ -10,7 +10,7 @@ This feature enables the user to define which number on the Twilio Account to us
 
 the vanilla feature without any further customizations will look like this
 
-![alt text]
+![alt text](/img/f1/caller-id/flex-user-experience.gif)
 
 # setup and dependencies
 

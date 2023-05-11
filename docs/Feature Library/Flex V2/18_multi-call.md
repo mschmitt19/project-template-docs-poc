@@ -6,7 +6,7 @@ title: multi-call
 
 Out of the box, Flex does not allow a single worker to have more than one call active at once. Due to this limitation, another worker cannot transfer a call to another worker if they already are on a call. This feature allows a worker to handle two calls at once, and will automatically place other calls on hold when accepting a new call. As a result, a worker can gracefully handle a transferred call while already assigned another call.
 
-![Multi-call demo]
+![Multi-call demo](/img/f2/multi-call/multi-call.gif)
 
 # Setup and dependencies
 

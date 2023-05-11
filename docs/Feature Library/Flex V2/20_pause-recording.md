@@ -8,7 +8,7 @@ This feature adds a Pause/Resume Recording button to the call canvas to allow th
 
 # flex-user-experience
 
-![Pause recording demo]
+![Pause recording demo](/img/f2/pause-recording/pause-recording.gif)
 
 # setup and dependencies
 

@@ -11,36 +11,36 @@ There are addtiional features that have been added to allow the Agent to see who
 # Flex User Experience
 
 First select the call/worker you wish to monitor  
-![Plugin Demo]
+![Plugin Demo](/img/f2/supervisor-barge-coach/Supervisor-Barge-Coach-Plugin-1.gif)
 
 Click the Monitor button to enable the Barge-In Button (Middle Button) and the Coach Button (Right Button)  
-![Plugin Demo]
+![Plugin Demo](/img/f2/supervisor-barge-coach/Supervisor-Barge-Coach-Plugin-2.gif)
 
 Coach Status Panel to the Agent's UI. This UI change can be enabled/disabled by the below button
-![Plugin Demo]
+![Plugin Demo](/img/f2/supervisor-barge-coach/Supervisor-Barge-Coach-Plugin-3.gif)
 
 There is a private toggle to enable/disable the agent's ability to see who is coaching them  
-![Plugin Demo]
+![Plugin Demo](/img/f2/supervisor-barge-coach/Supervisor-Barge-Coach-Plugin-4.gif)
 
 There is also a Supervisor Monitor Panel, which gives the supervisors the ability to see if other supervisors are monitoring, coaching, or have joined (barged) the call. \*\*Note that the private toggle feature does apply to this feature as well. If a Supervisor has private mode on, they will not show up in the Supervisor Monitor Panel
 
-![Plugin Demo]
+![Plugin Demo](/img/f2/supervisor-barge-coach/Supervisor-Barge-Coach-Plugin-5.gif)
 
 We've also included Agent Assistance into this plugin suite. This adds a button to the agent's call canvas to ask for assistance.
 
-![Plugin Demo]
+![Plugin Demo](/img/f2/supervisor-barge-coach/Supervisor-Barge-Coach-Plugin-6.gif)
 
 When the Agent clicks the Assistance button, Supervisors will be sent a notification with the agent seeking assistance. The notification bar is clickable and will navigate the Supervisor the Teams View if clicked.
 
-![Plugin Demo]
+![Plugin Demo](/img/f2/supervisor-barge-coach/Supervisor-Barge-Coach-Plugin-7.gif)
 
 From the Teams View, Supervisors will notice an _Error_ icon next to any agent that is actively seeking assistance.
 
-![Plugin Demo]
+![Plugin Demo](/img/f2/supervisor-barge-coach/Supervisor-Barge-Coach-Plugin-8.gif)
 
 \*\*Note that the supervisor alert toggle feature does apply to this feature as well. If a Supervisor has alerts toggled to enabled via the MainHeader button, they will receive a notification any time an agent asks for assistance. The notification bar is clickable and will navigate them to the Team's View. If a Supervisor has alerts disabled, it will suppress Agent Assistance specific notifications for them.
 
-![Plugin Demo]
+![Plugin Demo](/img/f2/supervisor-barge-coach/Supervisor-Barge-Coach-Plugin-9.gif)
 
 # Setup and Dependencies
 

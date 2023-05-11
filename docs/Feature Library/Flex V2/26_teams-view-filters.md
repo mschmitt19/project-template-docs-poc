@@ -37,7 +37,7 @@ For reasons yet unknown, the first time a queue is selected in the [queue_no_wor
 
 # flex-user-experience
 
-![Supervisor View]
+![Supervisor View](/img/f2/teams-view-filters/flex-user-experience.gif)
 
 # setup and dependencies
 

@@ -19,15 +19,15 @@ The feature is inspired by the work in the [Queued Callback and Voicemail](https
 
 The vanilla feature without any further customizations will look like this for callbacks
 
-![alt text]
+![alt text](/img/f2/callback-and-voicemail/flex-user-experience.gif)
 
 Voicemails will look like this
 
-![alt text]
+![alt text](/img/f2/callback-and-voicemail/flex-user-experience-vm.gif)
 
 And Voicemails created from the Transcription Callback URL will look like this
 
-![alt text]
+![alt text](/img/f2/callback-and-voicemail/flex-user-experience-vm-with-trans.gif)
 
 # How Does it Work?
 
@@ -47,7 +47,7 @@ Once you've set the flag for the feature in flex-config, and all of that is depl
 
 Creating a callback involves creating a task with at a minimum a number to callback and a number to call from. A sample setup of that is shown here in a Studio flow where a number has been wired up to immediately create a callback and hang up.
 
-![alt text]
+![alt text](/img/f2/callback-and-voicemail/sample-triggering-callback.png)
 
 Here you can see three parameters which are populated from the studio flow
 

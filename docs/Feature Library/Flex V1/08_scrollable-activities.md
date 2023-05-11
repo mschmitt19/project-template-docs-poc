@@ -8,7 +8,7 @@ This feature will add a scrolling CSS config to the activities drop down. This i
 
 # flex-user-experience
 
-![alt text]
+![alt text](/img/f1/scrollable-activities/flex-user-experience-scrollable-activities.gif)
 
 # setup and dependencies
 

@@ -16,7 +16,7 @@ A preferred solution to auto wrapup would require a backend handler to move the 
 
 An auto selected, auto accepted voice task with an auto wrap up after 5 seconds.
 
-![alt text]
+![alt text](/img/f2/agent-automation/autto-accept-auto-wrap-5.gif)
 
 # setup and dependencies
 

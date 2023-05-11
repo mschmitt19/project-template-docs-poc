@@ -12,7 +12,7 @@ this component also exposes the ability to modify the UI, by default it uses a d
 
 # flex-user-experience
 
-![alt text]
+![alt text](/img/f1/override-queue-transfer-directory/flex-user-experience-queue-transfer-directory.gif)
 
 # setup and dependencies
 

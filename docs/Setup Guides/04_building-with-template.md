@@ -52,7 +52,7 @@ The plugin works by cycling through each of the `feature-library` directories (d
 
 The plugin logs each hook for each feature as it is loaded. This is particularly useful when layering up multiple features and extensions as we need to see where our custom behaviors might overlap with other custom behaviors.
 
-![scripts]
+![scripts](/img/guides/feature-loader.png)
 
 # Feature library
 
@@ -62,7 +62,7 @@ Each feature in the feature library is self contained. Let's look at [Caller ID]
 
 For this feature, we have a `custom-components` directory, containing components that are created for rendering within Flex (in this case, the Caller ID dropdown). Within the `flex-hooks` directory, we can see which hooks are used to hook in the behavioural changes to Flex. In this case, we can see hooks defined for the `StartOutboundCall` action, the `OutboundDialerPanel` component, the `pluginLoaded` event, and our own Redux `state` namespace.
 
-![caller-id]
+![caller-id](/img/guides/caller-id.png)
 
 ## flex-hooks
 

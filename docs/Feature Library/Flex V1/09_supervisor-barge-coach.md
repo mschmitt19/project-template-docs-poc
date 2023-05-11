@@ -11,20 +11,20 @@ There are addtiional features that have been added to allow the Agent to see who
 # flex-user-experience
 
 First select the call/worker you wish to monitor  
-![Plugin Demo]
+![Plugin Demo](/img/f1/supervisor-barge-coach/Supervisor-Barge-Coach-Plugin-1.gif)
 
 Click the Monitor button to enable the Barge-In Button (Middle Button) and the Coach Button (Right Button)  
-![Plugin Demo]
+![Plugin Demo](/img/f1/supervisor-barge-coach/Supervisor-Barge-Coach-Plugin-2.gif)
 
 Coach Status Panel to the Agent's UI. This UI change can be enabled/disabled by the below button
-![Plugin Demo]
+![Plugin Demo](/img/f1/supervisor-barge-coach/Supervisor-Barge-Coach-Plugin-3.gif)
 
 There is a private toggle to enable/disable the agent's ability to see who is coaching them  
-![Plugin Demo]
+![Plugin Demo](/img/f1/supervisor-barge-coach/Supervisor-Barge-Coach-Plugin-4.gif)
 
 There is also a Supervisor Monitor Panel, which gives the supervisors the ability to see if other supervisors are monitoring, coaching, or have joined (barged) the call. \*\*Note that the private toggle feature does apply to this feature as well. If a Supervisor has private mode on, they will not show up in the Supervisor Monitor Panel
 
-![Plugin Demo]
+![Plugin Demo](/img/f1/supervisor-barge-coach/Supervisor-Barge-Coach-Plugin-5.gif)
 
 # setup and dependencies
 

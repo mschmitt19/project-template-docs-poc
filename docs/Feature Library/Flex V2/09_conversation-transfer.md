@@ -15,11 +15,11 @@ The two different features can be enabled/disabled independently. In the case of
 
 ### Cold Transfer
 
-![cold transfer]
+![cold transfer](/img/f2/conversation-transfer/chat-transfer.gif)
 
 ### Multi participant chat
 
-![multiple partcipants]
+![multiple partcipants](/img/f2/conversation-transfer/multi-participant.gif)
 
 ## Setup
 
